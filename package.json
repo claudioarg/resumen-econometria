@@ -1,0 +1,15 @@
+{
+  "name": "resumen-econometria",
+  "version": "1.0.0",
+  "description": "Matriz Diferencial, Guía de Supuestos & Simulador de Examen de Econometría",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
